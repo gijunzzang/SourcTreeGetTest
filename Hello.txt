@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 Hello2
+=======
+Clone
+>>>>>>> e2ba78dea6713eeb64652a991aa4b3beedb39b67
